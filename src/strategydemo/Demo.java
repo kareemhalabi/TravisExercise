@@ -6,8 +6,8 @@ public class Demo {
 		Order order = new Order("Jennifer", 444.07f);
 		DiscountStrategy strategy = null;
 
-		int selectedStrat = Integer.parseInt(argv[0]);
-		float amt = Float.parseFloat(argv[1]);
+		int selectedStrat = (int)(Math.random()*3) + 1;
+		float amt = (float) (Math.random()*1000);
 
 		switch(selectedStrat) {
 		case 1:
