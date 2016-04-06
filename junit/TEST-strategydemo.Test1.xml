@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="KAREEMHALABI-PC" name="strategydemo.Test1" skipped="0" tests="1" time="0.073" timestamp="2016-03-30T05:29:57">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="KAREEMHALABI-PC" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/templates/" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 8.1" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes" />
+    <property name="env.COMPUTERNAME" value="KAREEMHALABI-PC" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020" />
+    <property name="java.runtime.version" value="1.7.0_79-b15" />
+    <property name="env.HOMEPATH" value="\Users\Kareem Halabi" />
+    <property name="user.name" value="Kareem Halabi" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_79\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="TravisExercise" />
+    <property name="java.version" value="1.7.0_79" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\KAREEM~1\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="51.0" />
+    <property name="user.country" value="CA" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_79\jre" />
+    <property name="env.PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\Kareem Halabi\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\build.xml" />
+    <property name="os.version" value="6.3" />
+    <property name="env.NXJ_HOME" value="C:\Program Files (x86)\leJOS NXJ" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="env.configsetroot" value="C:\WINDOWS\ConfigSetRoot" />
+    <property name="path.separator" value=";" />
+    <property name="env.LEJOS_NXT_JAVA_HOME" value="C:\Program Files (x86)\Java\jdk1.7.0_55" />
+    <property name="java.vm.version" value="24.79-b02" />
+    <property name="env.USERPROFILE" value="C:\Users\Kareem Halabi" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.7.0_79" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\KAREEM~1\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/scripts/" />
+    <property name="user.home" value="C:\Users\Kareem Halabi" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.VS140COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.file.TravisExercise" value="C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\build.xml" />
+    <property name="java.library.path" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin/server;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.7.0_79\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\leJOS NXJ\bin;C:\Program Files (x86)\PharosSystems\Core;C:\Program Files\MATLAB\R2014b\runtime\win64;C:\Program Files\MATLAB\R2014b\bin;C:\Users\Kareem Halabi\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Anaconda2;C:\Anaconda2\Scripts;C:\Anaconda2\Library\bin;C:\Program Files (x86)\Skype\Phone\;C:\apache-ant-1.9.6\bin;C:\Users\Kareem Halabi\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64\;C:\eclipse-jee-mars-R-win32-x86_64\eclipse;;.;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1188\0\.cp" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="env.VXIPNPPATH" value="C:\Program Files (x86)\IVI Foundation\VISA\" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="env.CM2015DIR" value="C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+    <property name="java.class.path" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-antlr.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-apache-bcel.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-apache-bsf.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-apache-log4j.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-apache-oro.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-apache-regexp.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-apache-resolver.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-apache-xalan2.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-commons-logging.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-commons-net.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-jai.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-javamail.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-jdepend.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-jmf.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-jsch.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-junit.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-junit4.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-launcher.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-netrexx.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-swing.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-testutil.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\953\0\.cp\lib\antdebug.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\953\0\.cp\lib\remote.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\954\0\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.7.0_79\lib\tools.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.104.1.v20150825-0743.jar" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1459315794992 -Declipse.connect.port=39614 -Declipse.pdebuild.home=/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/./ -Declipse.pdebuild.scripts=/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/scripts/ -Declipse.pdebuild.templates=/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/templates/ -Dnxj.home=C:\Program Files (x86)\leJOS NXJ -Dant.home=C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\build.xml Test1" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.LOGONSERVER" value="\\MicrosoftAccount" />
+    <property name="env.windir" value="C:\WINDOWS" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020" />
+    <property name="java.io.tmpdir" value="C:\Users\KAREEM~1\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="1301" />
+    <property name="eclipse.pdebuild.home" value="/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/./" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="ant.file.type.TravisExercise" value="file" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\WINDOWS" />
+    <property name="nxj.home" value="C:\Program Files (x86)\leJOS NXJ" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\Kareem Halabi\AppData\Local" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin/server;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.7.0_79\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\leJOS NXJ\bin;C:\Program Files (x86)\PharosSystems\Core;C:\Program Files\MATLAB\R2014b\runtime\win64;C:\Program Files\MATLAB\R2014b\bin;C:\Users\Kareem Halabi\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Anaconda2;C:\Anaconda2\Scripts;C:\Anaconda2\Library\bin;C:\Program Files (x86)\Skype\Phone\;C:\apache-ant-1.9.6\bin;C:\Users\Kareem Halabi\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64\;C:\eclipse-jee-mars-R-win32-x86_64\eclipse;" />
+    <property name="basedir" value="C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant.jar" />
+    <property name="env.USERNAME" value="Kareem Halabi" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="env.USERDOMAIN" value="KAREEMHALABI-PC" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="ant.project.invoked-targets" value="Test1" />
+    <property name="env.PROCESSOR_LEVEL" value="21" />
+    <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\" />
+  </properties>
+  <testcase classname="strategydemo.Test1" name="initializationError" time="0.011">
+    <error message="org/hamcrest/SelfDescribing" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/hamcrest/SelfDescribing
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:800)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:36)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:453)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:140)
+Caused by: java.lang.ClassNotFoundException: org.hamcrest.SelfDescribing
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+</error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

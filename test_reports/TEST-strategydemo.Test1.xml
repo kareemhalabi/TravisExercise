@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="KAREEMHALABI-PC" name="strategydemo.Test1" skipped="0" tests="1" time="0.184" timestamp="2016-04-06T18:59:23">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="lib.dir" value="lib" />
+    <property name="osgi.bundles.defaultStartLevel" value="4" />
+    <property name="org.eclipse.debug.ui.breakpoints.toggleFactoriesUsed" value="true" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/templates/" />
+    <property name="org.osgi.supports.framework.extension" value="true" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="eclipse.p2.profile" value="epp.package.jee" />
+    <property name="os.name" value="Windows 8.1" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes" />
+    <property name="eclipse.running" value="true" />
+    <property name="osgi.ws" value="win32" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020" />
+    <property name="jar.dir" value="build/jar" />
+    <property name="java.runtime.version" value="1.7.0_79-b15" />
+    <property name="osgi.instance.area" value="file:/C:/Users/Kareem Halabi/workspace/" />
+    <property name="org.osgi.framework.uuid" value="60d3f84e-19fc-0015-184b-cc98a7fcd28b" />
+    <property name="org.eclipse.m2e.log.dir" value="C:\Users\Kareem Halabi\workspace\.metadata\.plugins\org.eclipse.m2e.logback.configuration" />
+    <property name="user.name" value="Kareem Halabi" />
+    <property name="osgi.framework.extensions" value="reference:file:org.eclipse.osgi.compatibility.state_1.0.100.v20150402-1551.jar" />
+    <property name="org.osgi.framework.system.packages" value="javax.accessibility,javax.activation,javax.activity,javax.annotation,javax.annotation.processing,javax.crypto,javax.crypto.interfaces,javax.crypto.spec,javax.imageio,javax.imageio.event,javax.imageio.metadata,javax.imageio.plugins.bmp,javax.imageio.plugins.jpeg,javax.imageio.spi,javax.imageio.stream,javax.jws,javax.jws.soap,javax.lang.model,javax.lang.model.element,javax.lang.model.type,javax.lang.model.util,javax.management,javax.management.loading,javax.management.modelmbean,javax.management.monitor,javax.management.openmbean,javax.management.relation,javax.management.remote,javax.management.remote.rmi,javax.management.timer,javax.naming,javax.naming.directory,javax.naming.event,javax.naming.ldap,javax.naming.spi,javax.net,javax.net.ssl,javax.print,javax.print.attribute,javax.print.attribute.standard,javax.print.event,javax.rmi,javax.rmi.CORBA,javax.rmi.ssl,javax.script,javax.security.auth,javax.security.auth.callback,javax.security.auth.kerberos,javax.security.auth.login,javax.security.auth.spi,javax.security.auth.x500,javax.security.cert,javax.security.sasl,javax.sound.midi,javax.sound.midi.spi,javax.sound.sampled,javax.sound.sampled.spi,javax.sql,javax.sql.rowset,javax.sql.rowset.serial,javax.sql.rowset.spi,javax.swing,javax.swing.border,javax.swing.colorchooser,javax.swing.event,javax.swing.filechooser,javax.swing.plaf,javax.swing.plaf.basic,javax.swing.plaf.metal,javax.swing.plaf.multi,javax.swing.plaf.nimbus,javax.swing.plaf.synth,javax.swing.table,javax.swing.text,javax.swing.text.html,javax.swing.text.html.parser,javax.swing.text.rtf,javax.swing.tree,javax.swing.undo,javax.tools,javax.transaction,javax.transaction.xa,javax.xml,javax.xml.bind,javax.xml.bind.annotation,javax.xml.bind.annotation.adapters,javax.xml.bind.attachment,javax.xml.bind.helpers,javax.xml.bind.util,javax.xml.crypto,javax.xml.crypto.dom,javax.xml.crypto.dsig,javax.xml.crypto.dsig.dom,javax.xml.crypto.dsig.keyinfo,javax.xml.crypto.dsig.spec,javax.xml.datatype,javax.xml.namespace,javax.xml.parsers,javax.xml.soap,javax.xml.stream,javax.xml.stream.events,javax.xml.stream.util,javax.xml.transform,javax.xml.transform.dom,javax.xml.transform.sax,javax.xml.transform.stax,javax.xml.transform.stream,javax.xml.validation,javax.xml.ws,javax.xml.ws.handler,javax.xml.ws.handler.soap,javax.xml.ws.http,javax.xml.ws.soap,javax.xml.ws.spi,javax.xml.ws.spi.http,javax.xml.ws.wsaddressing,javax.xml.xpath,org.ietf.jgss,org.omg.CORBA,org.omg.CORBA_2_3,org.omg.CORBA_2_3.portable,org.omg.CORBA.DynAnyPackage,org.omg.CORBA.ORBPackage,org.omg.CORBA.portable,org.omg.CORBA.TypeCodePackage,org.omg.CosNaming,org.omg.CosNaming.NamingContextExtPackage,org.omg.CosNaming.NamingContextPackage,org.omg.Dynamic,org.omg.DynamicAny,org.omg.DynamicAny.DynAnyFactoryPackage,org.omg.DynamicAny.DynAnyPackage,org.omg.IOP,org.omg.IOP.CodecFactoryPackage,org.omg.IOP.CodecPackage,org.omg.Messaging,org.omg.PortableInterceptor,org.omg.PortableInterceptor.ORBInitInfoPackage,org.omg.PortableServer,org.omg.PortableServer.CurrentPackage,org.omg.PortableServer.POAManagerPackage,org.omg.PortableServer.POAPackage,org.omg.PortableServer.portable,org.omg.PortableServer.ServantLocatorPackage,org.omg.SendingContext,org.omg.stub.java.rmi,org.w3c.dom,org.w3c.dom.bootstrap,org.w3c.dom.css,org.w3c.dom.events,org.w3c.dom.html,org.w3c.dom.ls,org.w3c.dom.ranges,org.w3c.dom.stylesheets,org.w3c.dom.traversal,org.w3c.dom.views,org.w3c.dom.xpath,org.xml.sax,org.xml.sax.ext,org.xml.sax.helpers" />
+    <property name="eclipse.launcher" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\eclipse.exe" />
+    <property name="build.dir" value="build" />
+    <property name="eclipse.launcher.name" value="Eclipse" />
+    <property name="osgi.frameworkClassPath" value="., file:c:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.osgi.compatibility.state_1.0.100.v20150402-1551.jar" />
+    <property name="equinox.use.ds" value="true" />
+    <property name="org.osgi.framework.language" value="en" />
+    <property name="user.language" value="en" />
+    <property name="org.osgi.framework.processor" value="x86-64" />
+    <property name="osgi.syspath" value="c:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins" />
+    <property name="test.report.dir" value="test_reports" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_79\jre\bin" />
+    <property name="org.osgi.framework.system.capabilities" value="osgi.ee; osgi.ee=&quot;OSGi/Minimum&quot;; version:List&lt;Version&gt;=&quot;1.0, 1.1, 1.2&quot;,osgi.ee; osgi.ee=&quot;JRE&quot;; version:List&lt;Version&gt;=&quot;1.0, 1.1&quot;,osgi.ee; osgi.ee=&quot;JavaSE&quot;; version:List&lt;Version&gt;=&quot;1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7&quot;" />
+    <property name="ant.project.default-target" value="compile" />
+    <property name="org.eclipse.php.debug.ui.activeDebugging" value="true" />
+    <property name="org.eclipse.debug.ui.debugViewToolbarVisible" value="false" />
+    <property name="osgi.compatibility.bootdelegation" value="true" />
+    <property name="ant.project.name" value="TravisExercise" />
+    <property name="java.version" value="1.7.0_79" />
+    <property name="org.osgi.framework.os.name" value="Windows8" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="osgi.bundles" value="reference:file:org.eclipse.osgi.compatibility.state_1.0.100.v20150402-1551.jar,reference:file:org.eclipse.equinox.simpleconfigurator_1.1.100.v20150423-1455.jar@1:start" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\endorsed" />
+    <property name="osgi.tracefile" value="C:\Users\Kareem Halabi\workspace\.metadata\trace.log" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="eclipse.application" value="org.eclipse.ui.ide.workbench" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="org.osgi.framework.vendor" value="Eclipse" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="classes.dir" value="build/classes" />
+    <property name="java.class.version" value="51.0" />
+    <property name="user.country" value="CA" />
+    <property name="org.eclipse.equinox.launcher.splash.location" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\\plugins\org.eclipse.platform_4.5.1.v20150904-0015\splash.bmp" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_79\jre" />
+    <property name="osgi.os" value="win32" />
+    <property name="eclipse.commands" value="-os&#xa;win32&#xa;-ws&#xa;win32&#xa;-arch&#xa;x86_64&#xa;-showsplash&#xa;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\\plugins\org.eclipse.platform_4.5.1.v20150904-0015\splash.bmp&#xa;-launcher&#xa;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\eclipse.exe&#xa;-name&#xa;Eclipse&#xa;--launcher.library&#xa;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\\plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.300.v20150602-1417\eclipse_1611.dll&#xa;-startup&#xa;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\\plugins/org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar&#xa;--launcher.appendVmargs&#xa;-product&#xa;org.eclipse.epp.package.jee.product&#xa;-vm&#xa;C:\Program Files\Java\jdk1.7.0_79\bin\..\jre\bin\server\jvm.dll&#xa;" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="osgi.splashLocation" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\\plugins\org.eclipse.platform_4.5.1.v20150904-0015\splash.bmp" />
+    <property name="main-class" value="strategydemo.Demo" />
+    <property name="ant.file" value="C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\build.xml" />
+    <property name="os.version" value="6.3" />
+    <property name="osgi.arch" value="x86_64" />
+    <property name="path.separator" value=";" />
+    <property name="eclipse.home" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse" />
+    <property name="java.vm.version" value="24.79-b02" />
+    <property name="org.osgi.supports.framework.fragment" value="true" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib" />
+    <property name="osgi.framework.shape" value="jar" />
+    <property name="osgi.instance.area.default" value="file:/C:/Users/Kareem Halabi/workspace/" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="org.osgi.framework.version" value="1.8.0" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.stateSaveDelayInterval" value="30000" />
+    <property name="eclipse.pdebuild.scripts" value="/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/scripts/" />
+    <property name="osgi.install.area" value="file:/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/" />
+    <property name="osgi.framework" value="file:/c:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.osgi_3.10.101.v20150820-1432.jar" />
+    <property name="user.home" value="C:\Users\Kareem Halabi" />
+    <property name="org.eclipse.equinox.simpleconfigurator.configUrl" value="file:org.eclipse.equinox.simpleconfigurator/bundles.info" />
+    <property name="osgi.framework.useSystemProperties" value="true" />
+    <property name="osgi.splashPath" value="platform:/base/plugins/org.eclipse.platform" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="osgi.nl" value="en_CA" />
+    <property name="ant.file.TravisExercise" value="C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\build.xml" />
+    <property name="test.dir" value="test" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_79\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin/server;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.7.0_79\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\leJOS NXJ\bin;C:\Program Files (x86)\PharosSystems\Core;C:\Program Files\MATLAB\R2014b\runtime\win64;C:\Program Files\MATLAB\R2014b\bin;C:\Users\Kareem Halabi\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Anaconda2;C:\Anaconda2\Scripts;C:\Anaconda2\Library\bin;C:\Program Files (x86)\Skype\Phone\;C:\apache-ant-1.9.6\bin;C:\Users\Kareem Halabi\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64\;C:\eclipse-jee-mars-R-win32-x86_64\eclipse;;." />
+    <property name="eclipse.p2.data.area" value="@config.dir/../p2/" />
+    <property name="eclipse.startTime" value="1459962129689" />
+    <property name="org.osgi.framework.os.version" value="6.2.0" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner strategydemo.Test1 skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\test_reports\TEST-strategydemo.Test1.xml crashfile=C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\junitvmwatcher1373562214147234835.properties propsfile=C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\junit7518437033706217586.properties" />
+    <property name="java.class.path" value="C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\build\classes;C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\lib\junit.jar;C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise\lib\org.hamcrest.core_1.3.0.v201303031735.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-launcher.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-junit.jar;C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+    <property name="osgi.requiredJavaVersion" value="1.7" />
+    <property name="org.eclipse.update.reconcile" value="false" />
+    <property name="eclipse.vm" value="C:\Program Files\Java\jdk1.7.0_79\bin\..\jre\bin\server\jvm.dll" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="gosh.args" value="--nointeractive" />
+    <property name="java.io.tmpdir" value="C:\Users\KAREEM~1\AppData\Local\Temp\" />
+    <property name="eclipse.pdebuild.home" value="/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/./" />
+    <property name="ant.file.type.TravisExercise" value="file" />
+    <property name="applicationXMI" value="org.eclipse.ui.workbench/LegacyIDE.e4xmi" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="eclipse.product" value="org.eclipse.epp.package.jee.product" />
+    <property name="nxj.home" value="C:\Program Files (x86)\leJOS NXJ" />
+    <property name="eclipse.home.location" value="file:/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse" />
+    <property name="org.osgi.supports.framework.requirebundle" value="true" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="org.apache.commons.logging.Log" value="org.apache.commons.logging.impl.NoOpLog" />
+    <property name="basedir" value="C:\Users\Kareem Halabi\Documents\GitHub\TravisExercise" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="C:\eclipse-jee-mars-R-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant.jar" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="eclipse.buildId" value="4.5.1.M20150904-0015" />
+    <property name="eclipse.vmargs" value="-Dosgi.requiredJavaVersion=1.7&#xa;-Xms256m&#xa;-Xmx1024m&#xa;-XX:MaxPermSize=256m&#xa;-Djava.class.path=C:\eclipse-jee-mars-R-win32-x86_64\eclipse\\plugins/org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar&#xa;" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="src.dir" value="src" />
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="org.osgi.framework.executionenvironment" value="OSGi/Minimum-1.0,OSGi/Minimum-1.1,OSGi/Minimum-1.2,JRE-1.1,J2SE-1.2,J2SE-1.3,J2SE-1.4,J2SE-1.5,JavaSE-1.6,JavaSE-1.7" />
+    <property name="osgi.configuration.area" value="file:/C:/eclipse-jee-mars-R-win32-x86_64/eclipse/configuration/" />
+    <property name="osgi.logfile" value="C:\Users\Kareem Halabi\workspace\.metadata\.log" />
+  </properties>
+  <testcase classname="strategydemo.Test1" name="testPercent" time="0.008" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
